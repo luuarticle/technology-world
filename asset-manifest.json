@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/technology-world/static/css/main.3e708371.css",
+    "main.js": "/technology-world/static/js/main.133b4ff7.js",
+    "static/media/banner1.jpg": "/technology-world/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/technology-world/index.html",
+    "main.3e708371.css.map": "/technology-world/static/css/main.3e708371.css.map",
+    "main.133b4ff7.js.map": "/technology-world/static/js/main.133b4ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e708371.css",
+    "static/js/main.133b4ff7.js"
+  ]
+}
